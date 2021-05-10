@@ -14,3 +14,4 @@ To help you differentiate between sessions, every session has a session status. 
 - **Submitted** – This status indicates that your session has been submitted. You cannot edit a submitted session.
 - **Cancelled** – This status indicates that your session was cancelled. You can see the reason for cancellation in the General tab of the session. You cannot edit a cancelled session. To cancel a session, see (link). You can undo session cancellation if your session was cancelled in error.
 - **Declined** – This status indicates that your session has been declined by your agency. You can see the reason in the General tab of the session. Reach out to your case manager if you are still unsure why your session was declined. You can edit the session to correct the issue (Link). Once you save your changes, the session will revalidate.
+- test line
